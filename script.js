@@ -5,7 +5,6 @@ function myFunction() {
   alert("Hello! I am an alert box!");
 }
 
-
 function multiplyBy()
 {
         num1 = document.getElementById("firstNumber").value;
