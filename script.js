@@ -14,7 +14,7 @@ function multiplyBy()
                       }
           if(num1=='1') 
 		      {    
-		      location.href = 'https://www.javascripttutorial.net/';
+		      location.href = 'balance.html';
 
 			}    
            if(num1=='2') 
