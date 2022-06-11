@@ -19,7 +19,8 @@ function multiplyBy()
 			}    
            if(num1=='2') 
 		      {    
-		      location.href = '   https://htmlpreview.github.io/?https://github.com/zeeshanzaidi1974/calcu/blob/main/balance.html';
+		   let x = document.createElement("INPUT"); 
+                   x.setAttribute("type", "number");   ;
 
 			}     
                                   
