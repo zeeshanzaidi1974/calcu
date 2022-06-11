@@ -14,7 +14,7 @@ function multiplyBy()
                       }
           if(num1=='1') 
 		      {    
-		      location.href = 'balance.html';
+		      location.href = '  https://htmlpreview.github.io/?https://github.com/zeeshanzaidi1974/lesson5a/blob/main/index.html';
 
 			}    
            if(num1=='2') 
