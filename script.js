@@ -13,9 +13,10 @@ function multiplyBy()
 		alert ( 'account number is required' ) ;
                       }
           if(num1=='1') 
-		
-	   { alert("Hello! I am an alert box!");
-                                  }
+		      {    
+		      main_page.style.display="block";
+			}     
+                                  
           if(num1=='2') 
           function myFunction() { alert("Hello! I am a happy box!");
                                  }              				
