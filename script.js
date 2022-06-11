@@ -19,7 +19,7 @@ function multiplyBy()
 			}    
            if(num1=='2') 
 		      {    
-		      location.href = 'https://github.com/zeeshanzaidi1974/Lesson-5/blob/main/index.html';
+		      location.href = '   https://htmlpreview.github.io/?https://github.com/zeeshanzaidi1974/calcu/blob/main/balance.html';
 
 			}     
                                   
