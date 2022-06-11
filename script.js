@@ -16,11 +16,15 @@ function multiplyBy()
 		      {    
 		      location.href = 'https://www.javascripttutorial.net/';
 
+			}    
+           if(num1=='2') 
+		      {    
+		      location.href = 'https://github.com/zeeshanzaidi1974/Lesson-5/blob/main/index.html';
+
 			}     
                                   
-          if(num1=='2') 
-          function myFunction() { alert("Hello! I am a happy box!");
-                                 }              				
+          if(num1=='3') 
+                        				
               document.getElementById("result").innerHTML = num1 * num2;
 }
 
