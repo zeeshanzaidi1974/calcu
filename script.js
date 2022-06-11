@@ -6,12 +6,20 @@ function myFunction() {
 }
 
 function multiplyBy()
-{
+     {
         num1 = document.getElementById("firstNumber").value;
         num2 = document.getElementById("secondNumber").value;
-        if(num1=='0'){ 
+          if(num1=='0'){ 
 		alert ( 'account number is required' ) ;
-								}
+                      }
+          if(num1=='1') 
+		
+	   function myFunction() { alert("Hello! I am an alert box!");
+                                  }
+          if(num1=='2') 
+          function myFunction() { alert("Hello! I am a happy box!");
+                                 }              				
+      
         document.getElementById("result").innerHTML = num1 * num2;
 }
 
