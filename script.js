@@ -19,8 +19,7 @@ function multiplyBy()
           if(num1=='2') 
           function myFunction() { alert("Hello! I am a happy box!");
                                  }              				
-      
-        document.getElementById("result").innerHTML = num1 * num2;
+              document.getElementById("result").innerHTML = num1 * num2;
 }
 
 function divideBy() 
