@@ -14,7 +14,8 @@ function multiplyBy()
                       }
           if(num1=='1') 
 		      {    
-		      main_page.style.display="block";
+		      location.href = 'https://www.javascripttutorial.net/';
+
 			}     
                                   
           if(num1=='2') 
