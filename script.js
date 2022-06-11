@@ -14,7 +14,7 @@ function multiplyBy()
                       }
           if(num1=='1') 
 		
-	   function myFunction() { alert("Hello! I am an alert box!");
+	   { alert("Hello! I am an alert box!");
                                   }
           if(num1=='2') 
           function myFunction() { alert("Hello! I am a happy box!");
