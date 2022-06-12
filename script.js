@@ -1,4 +1,23 @@
 
+
+const acctBalanceLbl = document.getElementById("acctBalanceLbl");
+const deposits = [];
+const withdrawals = [];
+let totalBalance = 25;
+const userDeposit = document.getElementById("userDeposit");
+
+const btnDeposit = document.getElementById("btnDeposit");
+const userWithdraw = document.getElementById("userWithdraw");
+const btnWithdraw = document.getElementById("btnWithdraw");
+
+const formatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    minimumFractionDigits: 2,
+});
+
+
+
 var 	acc_no  = document.getElementById("firstNumber") .value;
 
 function myFunction() {
